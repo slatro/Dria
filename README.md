@@ -65,7 +65,7 @@ chmod +x start.sh
 ./start.sh -m=llama3.1:latest -m=gpt-3.5-turbo
 ```
 
-> CTRL A D İLE ÇIKALIM
+> CTRL A D İLE ÇIKALIM.
 
 > Ana screende loglara bakalım.
 
